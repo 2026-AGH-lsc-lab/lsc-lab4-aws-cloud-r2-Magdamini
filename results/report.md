@@ -76,7 +76,6 @@ EC2 pricing also doesn't depend on traffic - idle cost is the same as during act
 
 ## Monthly Cost
 ### Lambda
-TODO Use your measured p50 handler duration from Scenario B for duration_second
 ```
 Parameters:
     duration = 94 ms
